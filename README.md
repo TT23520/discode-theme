@@ -1,6 +1,6 @@
 <h1 align="center">thịnh presents:  T h i n h - v i p - p r o </h1>
 
-![chillax cover]([https://github.com/TT23520/discode-theme/blob/3ed6f695bc603b53db946345510efe48eebcf44a/1707917488387.png)
+![chillax cover](https://github.com/TT23520/discode-theme/blob/main/1707917488387.png)
 
 <div align="center">
     <hr width="250px"/>
